@@ -2,6 +2,7 @@
 
 ## networking topics
 - shared vpc
+![image info](./images/svpc-overview.drawio.png)
 - vpc service control
 - vpc network peering
 - private gke network 
