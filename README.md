@@ -3,6 +3,7 @@
 ## networking topics
 - shared vpc
 ![image info](./images/svpc-overview.drawio.png)
+- private services access
 - vpc network peering
 ![image info](./images/vpc-network-peering.drawio.png)
   - firewall (target at node)
